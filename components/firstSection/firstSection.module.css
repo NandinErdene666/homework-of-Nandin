@@ -1,0 +1,15 @@
+.section_container {
+    height: 41px;
+    background-color: #3A416F;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 37.14px;
+    padding-right: 37.14px;
+    align-items: center;
+}
+
+.section_text_style {
+    font-size: 12px;
+    color: white;
+    padding-left: 14px;
+}
